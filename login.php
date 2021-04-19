@@ -7,7 +7,7 @@
         header("Location:panelConrol.php");
    }else{
         
-        header("Location:index.php");
+        header("Location:salidaError.php");
    }
 
 ?>
